@@ -1,12 +1,10 @@
 <h3> Hi There 👋🏼</h3>
 
-- 💼 &nbsp; Atualmente trabalhando como Frontend Developer (Mas já trabalhei como Fullstack)
-- 📚 &nbsp; Estudando tecnologias Mobile
+- 💼 &nbsp; Currently working as a Frontend Developer (but already worked as a Fullstack)
+- 📚 &nbsp; Studying mobile programming technologies
 
 
-<h3> &nbsp;Skills </h3>
-
-**Tecnologias com experiência profissional:**
+<h4>Skills with professional experience:</h4>
 
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -16,7 +14,7 @@
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
   ![Nest](https://img.shields.io/badge/-Nest-333333?style=flat&logo=NestJs)
 
-  **Tecnologias em desenvolvimento:**
+<h4>Skills in development:</h4>
   
   ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
