@@ -1,7 +1,7 @@
 <h3> Hi There 👋🏼</h3>
 
 - 💼 &nbsp; Atualmente trabalhando como Frontend Developer (Mas já trabalhei como Fullstack)
-- 🌱 &nbsp; Estudando tecnologias Mobile
+- 📚 &nbsp; Estudando tecnologias Mobile
 
 
 <h3> &nbsp;Skills </h3>
