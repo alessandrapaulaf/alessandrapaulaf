@@ -13,6 +13,7 @@
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
   ![Nest](https://img.shields.io/badge/-Nest-333333?style=flat&logo=NestJs)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 <h4>Skills in development:</h4>
   
