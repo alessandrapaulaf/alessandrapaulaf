@@ -1,7 +1,7 @@
 <h3> Hi There 👋🏼</h3>
 
 - 💼 &nbsp; Currently working as a Frontend Developer (but already worked as a Fullstack)
-- 📚 &nbsp; Studying mobile programming technologies
+- 📚 &nbsp; Studying backend technologies
 
 
 <h4>Skills with professional experience:</h4>
@@ -14,12 +14,6 @@
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
   ![Nest](https://img.shields.io/badge/-Nest-333333?style=flat&logo=NestJs)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
-
-<h4>Skills in development:</h4>
-  
-  ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
   
 
 <!-- <a href="https://github.com/alessandrapaulaf">
