@@ -14,6 +14,11 @@
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
   ![Nest](https://img.shields.io/badge/-Nest-333333?style=flat&logo=NestJs)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+
+<h4>Skills in progress:</h4>
+
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
+  ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=Apache-Kafka)
   
 
 <!-- <a href="https://github.com/alessandrapaulaf">
