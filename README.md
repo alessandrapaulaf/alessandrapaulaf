@@ -18,7 +18,7 @@
 <h4>Skills in progress:</h4>
 
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
-  ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=Apache-Kafka)
+  # ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=Apache-Kafka)
   
 
 <!-- <a href="https://github.com/alessandrapaulaf">
