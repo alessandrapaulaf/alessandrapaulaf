@@ -1,6 +1,6 @@
 <h3> Hi There 👋🏼</h3>
 
-- 💼 &nbsp; Currently working as a Frontend Developer (but already worked as a Fullstack)
+- 💼 &nbsp; Currently working as a Frontend Developer (but already worked as Fullstack)
 - 📚 &nbsp; Studying backend technologies
 
 
